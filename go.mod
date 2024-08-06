@@ -1,3 +1,3 @@
-module github.com/GoAdminGroup/html
+module github.com/barmi/go-admin-html
 
 go 1.13
